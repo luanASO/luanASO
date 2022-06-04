@@ -21,6 +21,6 @@
   Iniciando meus estudos com programação recentemente, criador de conteúdo sobre programação, sou entusiasta da tecnologia e muito determinado a aprender.
   
   #### Útimos vídeos:
-  -[Criando uma to do list usando html, css e js]()
+  - [Criando uma to do list usando html, css e js]()
   
      
