@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, sou Luan Alexandre Santos</h1>
 <h3 align="center">Um futuro Analista de Sistemas com foco em Web</h3>
 
-- 🔭 Atualmente estou trabalhando em um projeto, qual este é uma [Landing Page Compliance](https://github.com/henriquealexandre1373/landing-page-compliance)
+- 🔭 Atualmente estou estudando na Escola Técnica chamada ETEC
 
 - 🌱 Atualmente estou aprendendo **Estou aprendendo HTML, CSS e JavaScript através de cursos gratuitos.**
 
-- 👨‍💻 Todos dos meus projetos estão disponíveis em [https://luanalexandre.com](https://luanalexandre.com)
+- 👨‍💻 Em breve odos dos meus projetos estão disponíveis em [https://luanalexandre.com](https://luanalexandre.com)
 
 - 📫 Como chegar até mim **luanalex.dev@gmail.com**
 
