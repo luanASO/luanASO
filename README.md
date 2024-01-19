@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Luan Alexandre Santos</h1>
-<h3 align="center">Um futuro Analista de Sistemas com foco em Web</h3>
+<h3 align="center">Um futuro Desenvolvedor de Sistemas com foco em Web</h3>
 
 - 🔭 Atualmente estou estudando na Escola Técnica chamada ETEC
 
